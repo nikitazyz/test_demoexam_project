@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI_upgrade
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 1787f75108ddb614aa9cac274d323d2c, type: 3}
+    - {fileID: 2800000, guid: f036c5307df45ae489212999fb374add, type: 3}
+    - {fileID: 2800000, guid: 7476b8a5649a6c845b573ca244267b91, type: 3}
+    - {fileID: 2800000, guid: 92f8ae7be0d310a488cf530a561bf449, type: 3}
+    - {fileID: 2800000, guid: 9709be55e92228b4fb447b1ef6dc2eb2, type: 3}
+    - {fileID: 2800000, guid: 659a81e6090e36e4d98069f84bf6da8e, type: 3}
+    - {fileID: 2800000, guid: a6f0eb9bed07acd40b14e9e14e7c79a8, type: 3}
+    - {fileID: 2800000, guid: 3b0848d358bd50b44a23b2d62fcc3175, type: 3}
+    - {fileID: 2800000, guid: 4ca10fd8b97a5644a9f0e6653228774f, type: 3}
+    - {fileID: 2800000, guid: 16e1d3b16965f3a4ba326b1bd85ade79, type: 3}
+    - {fileID: 2800000, guid: af3352cfe57bc21428d877386ab2fe78, type: 3}
+    - {fileID: 2800000, guid: 7ebef3d0446f4074baa650a591ed25a0, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f036c5307df45ae489212999fb374add, type: 3}
+  - {fileID: 21300000, guid: 7ebef3d0446f4074baa650a591ed25a0, type: 3}
+  - {fileID: 21300000, guid: 1787f75108ddb614aa9cac274d323d2c, type: 3}
+  - {fileID: 21300000, guid: 16e1d3b16965f3a4ba326b1bd85ade79, type: 3}
+  - {fileID: 21300000, guid: 3b0848d358bd50b44a23b2d62fcc3175, type: 3}
+  - {fileID: 21300000, guid: 9709be55e92228b4fb447b1ef6dc2eb2, type: 3}
+  - {fileID: 21300000, guid: 7476b8a5649a6c845b573ca244267b91, type: 3}
+  - {fileID: 21300000, guid: 659a81e6090e36e4d98069f84bf6da8e, type: 3}
+  - {fileID: 21300000, guid: 4ca10fd8b97a5644a9f0e6653228774f, type: 3}
+  - {fileID: 21300000, guid: 92f8ae7be0d310a488cf530a561bf449, type: 3}
+  - {fileID: 21300000, guid: a6f0eb9bed07acd40b14e9e14e7c79a8, type: 3}
+  - {fileID: 21300000, guid: af3352cfe57bc21428d877386ab2fe78, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - b
+  - table
+  - a
+  - scroll
+  - heart
+  - close_2
+  - time
+  - dot
+  - luck
+  - btn
+  - header
+  - star
+  m_RenderDataMap: {}
+  m_Tag: UI_upgrade
+  m_IsVariant: 0

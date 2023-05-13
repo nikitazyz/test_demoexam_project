@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tiles_Medival
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: bc98dc6b1240b16498e46192876d71f1, type: 3}
+    - {fileID: 2800000, guid: 3f13043adbc112a4fb0d5b217c21b025, type: 3}
+    - {fileID: 2800000, guid: 02f22a11159a97a4f8476bde7f32b60f, type: 3}
+    - {fileID: 2800000, guid: 8277b7c48bc2dee468b6d76424136acb, type: 3}
+    - {fileID: 2800000, guid: b8e5147b4a52f944eb339475253e8990, type: 3}
+    - {fileID: 2800000, guid: 45e0f8126a8812c429070d589a8fced6, type: 3}
+    - {fileID: 2800000, guid: 78be13a61f657454783660251ad327b3, type: 3}
+    - {fileID: 2800000, guid: 019f43ffb7ae9404abdeafbee6db0de1, type: 3}
+    - {fileID: 2800000, guid: c0c92446cbba8754095f6b44a31a371e, type: 3}
+    - {fileID: 2800000, guid: 0aad820c39121b04eb6411ab60492d32, type: 3}
+    - {fileID: 2800000, guid: a130cc196c9deaf49a0a2b88fe5061c8, type: 3}
+    - {fileID: 2800000, guid: 5178fb0e7c11a4b4d8cc8024c0db05c3, type: 3}
+    - {fileID: 2800000, guid: b1760233ba3448b42860c8716f6fecc4, type: 3}
+    - {fileID: 2800000, guid: ec2c430408fa9754b84120bcd05e252b, type: 3}
+    - {fileID: 2800000, guid: eb3fdaf4758be984f94ffef15da2f9f5, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 02f22a11159a97a4f8476bde7f32b60f, type: 3}
+  - {fileID: 21300000, guid: 45e0f8126a8812c429070d589a8fced6, type: 3}
+  - {fileID: 21300000, guid: b1760233ba3448b42860c8716f6fecc4, type: 3}
+  - {fileID: 21300000, guid: ec2c430408fa9754b84120bcd05e252b, type: 3}
+  - {fileID: 21300000, guid: 8277b7c48bc2dee468b6d76424136acb, type: 3}
+  - {fileID: 21300000, guid: eb3fdaf4758be984f94ffef15da2f9f5, type: 3}
+  - {fileID: 21300000, guid: c0c92446cbba8754095f6b44a31a371e, type: 3}
+  - {fileID: 21300000, guid: 78be13a61f657454783660251ad327b3, type: 3}
+  - {fileID: 21300000, guid: a130cc196c9deaf49a0a2b88fe5061c8, type: 3}
+  - {fileID: 21300000, guid: 3f13043adbc112a4fb0d5b217c21b025, type: 3}
+  - {fileID: 21300000, guid: bc98dc6b1240b16498e46192876d71f1, type: 3}
+  - {fileID: 21300000, guid: b8e5147b4a52f944eb339475253e8990, type: 3}
+  - {fileID: 21300000, guid: 0aad820c39121b04eb6411ab60492d32, type: 3}
+  - {fileID: 21300000, guid: 5178fb0e7c11a4b4d8cc8024c0db05c3, type: 3}
+  - {fileID: 21300000, guid: 019f43ffb7ae9404abdeafbee6db0de1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - medieval_blacksmith
+  - medieval_farm
+  - medieval_smallCastle
+  - medieval_tower
+  - medieval_cabin
+  - medieval_windmill
+  - medieval_lumber
+  - medieval_house
+  - medieval_openCastle
+  - medieval_archway
+  - medieval_archery
+  - medieval_church
+  - medieval_mine
+  - medieval_ruins
+  - medieval_largeCastle
+  m_RenderDataMap: {}
+  m_Tag: Tiles_Medival
+  m_IsVariant: 0

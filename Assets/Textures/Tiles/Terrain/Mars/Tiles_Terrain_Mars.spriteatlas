@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tiles_Terrain_Mars
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 3d137c5b6992dbd40a1aa4c641228e2e, type: 3}
+    - {fileID: 2800000, guid: ecbc483f4429d734482239a3e848d656, type: 3}
+    - {fileID: 2800000, guid: 69354aabbee6bd343aa414cac2694042, type: 3}
+    - {fileID: 2800000, guid: 2976e8f85f8f3f140bcd3058cdc12c7f, type: 3}
+    - {fileID: 2800000, guid: 4dbd390e8e7d7a449b7e9d0f8be22e92, type: 3}
+    - {fileID: 2800000, guid: 2dd1d42d354f78b4b8af048ce47c647f, type: 3}
+    - {fileID: 2800000, guid: f04c4596b48bb4b428fd22158f4e12ff, type: 3}
+    - {fileID: 2800000, guid: 4b7a8023ba8843249b4410096b70bcd8, type: 3}
+    - {fileID: 2800000, guid: a2f362c62eb17964ea0658766fa895d5, type: 3}
+    - {fileID: 2800000, guid: 197b3db68ea9e6249ab3c1115e51223c, type: 3}
+    - {fileID: 2800000, guid: 66e34bf8d5f8a5a4e9f1569b25159b1d, type: 3}
+    - {fileID: 2800000, guid: 8763a1efbd049d34b8d72691566f1468, type: 3}
+    - {fileID: 2800000, guid: 7cc8a180ac6bfaf40b32ac6c66964730, type: 3}
+    - {fileID: 2800000, guid: cf9bc441f7eeaba4d9630adad3ad739a, type: 3}
+    - {fileID: 2800000, guid: a59b30dd1a15e1b44924947ffd663fa1, type: 3}
+    - {fileID: 2800000, guid: a9e4eed50ba49f64a9f01c08d73a0d4a, type: 3}
+    - {fileID: 2800000, guid: 0907e7eec306f78409c5217ac8a87a12, type: 3}
+    - {fileID: 2800000, guid: e18b9d659b64b91419e1cc8853158d97, type: 3}
+    - {fileID: 2800000, guid: ca4647bc559f42141a8b2a4b0c025d32, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7cc8a180ac6bfaf40b32ac6c66964730, type: 3}
+  - {fileID: 21300000, guid: cf9bc441f7eeaba4d9630adad3ad739a, type: 3}
+  - {fileID: 21300000, guid: 4b7a8023ba8843249b4410096b70bcd8, type: 3}
+  - {fileID: 21300000, guid: e18b9d659b64b91419e1cc8853158d97, type: 3}
+  - {fileID: 21300000, guid: a9e4eed50ba49f64a9f01c08d73a0d4a, type: 3}
+  - {fileID: 21300000, guid: f04c4596b48bb4b428fd22158f4e12ff, type: 3}
+  - {fileID: 21300000, guid: 197b3db68ea9e6249ab3c1115e51223c, type: 3}
+  - {fileID: 21300000, guid: a2f362c62eb17964ea0658766fa895d5, type: 3}
+  - {fileID: 21300000, guid: 2976e8f85f8f3f140bcd3058cdc12c7f, type: 3}
+  - {fileID: 21300000, guid: 66e34bf8d5f8a5a4e9f1569b25159b1d, type: 3}
+  - {fileID: 21300000, guid: 3d137c5b6992dbd40a1aa4c641228e2e, type: 3}
+  - {fileID: 21300000, guid: 69354aabbee6bd343aa414cac2694042, type: 3}
+  - {fileID: 21300000, guid: ca4647bc559f42141a8b2a4b0c025d32, type: 3}
+  - {fileID: 21300000, guid: 2dd1d42d354f78b4b8af048ce47c647f, type: 3}
+  - {fileID: 21300000, guid: a59b30dd1a15e1b44924947ffd663fa1, type: 3}
+  - {fileID: 21300000, guid: 4dbd390e8e7d7a449b7e9d0f8be22e92, type: 3}
+  - {fileID: 21300000, guid: 0907e7eec306f78409c5217ac8a87a12, type: 3}
+  - {fileID: 21300000, guid: ecbc483f4429d734482239a3e848d656, type: 3}
+  - {fileID: 21300000, guid: 8763a1efbd049d34b8d72691566f1468, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - mars_13
+  - mars_14
+  - mars_08
+  - mars_18
+  - mars_16
+  - mars_07
+  - mars_10
+  - mars_09
+  - mars_04
+  - mars_11
+  - mars_01
+  - mars_03
+  - mars_19
+  - mars_06
+  - mars_15
+  - mars_05
+  - mars_17
+  - mars_02
+  - mars_12
+  m_RenderDataMap: {}
+  m_Tag: Tiles_Terrain_Mars
+  m_IsVariant: 0

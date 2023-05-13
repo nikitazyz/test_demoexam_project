@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tiles_Terrain_Dirt
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 8382536fae0566e4da82669e5a0d2293, type: 3}
+    - {fileID: 2800000, guid: 1409c1dcb12b8bd46b1575064cb65d65, type: 3}
+    - {fileID: 2800000, guid: ed4b25b4c1357724f8efc6fc04b1555c, type: 3}
+    - {fileID: 2800000, guid: f9e525fa3ac67514db4128d273a8b4c3, type: 3}
+    - {fileID: 2800000, guid: d31ea0271e02b0346a055574e5c8a7ca, type: 3}
+    - {fileID: 2800000, guid: 6e5eefbe9c2a59040abbf5fabdbbc1ba, type: 3}
+    - {fileID: 2800000, guid: ff2045a53f86eab489a810e0a9bafacd, type: 3}
+    - {fileID: 2800000, guid: d467e4e93acd8cb45a947e046cfd908c, type: 3}
+    - {fileID: 2800000, guid: 6aaa58081aa64b24d89eb935737310d9, type: 3}
+    - {fileID: 2800000, guid: 3876eb30e21c07c4389acb9bda5d52bc, type: 3}
+    - {fileID: 2800000, guid: e58974bc9a1673345b12b7c00b615d8d, type: 3}
+    - {fileID: 2800000, guid: 855ba7cc4ffeb6d4881dab231db5a0c5, type: 3}
+    - {fileID: 2800000, guid: 75dae7a1a218dc348a40e54c7d41d8a6, type: 3}
+    - {fileID: 2800000, guid: c5e7e173b01aa9541ac4cbdf58d0fdab, type: 3}
+    - {fileID: 2800000, guid: 0bb7a08a764cc9944a0389528646b387, type: 3}
+    - {fileID: 2800000, guid: f7cc5a273a14f5e4982b7bbd13afdf0c, type: 3}
+    - {fileID: 2800000, guid: 4b9d794f6a8547c41a70ae6f66441f8b, type: 3}
+    - {fileID: 2800000, guid: a39261e23bf62d744a3cd0d4c0e4fa91, type: 3}
+    - {fileID: 2800000, guid: f1caa7d5600bfc946bc4a3a5645d522d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3876eb30e21c07c4389acb9bda5d52bc, type: 3}
+  - {fileID: 21300000, guid: 75dae7a1a218dc348a40e54c7d41d8a6, type: 3}
+  - {fileID: 21300000, guid: a39261e23bf62d744a3cd0d4c0e4fa91, type: 3}
+  - {fileID: 21300000, guid: c5e7e173b01aa9541ac4cbdf58d0fdab, type: 3}
+  - {fileID: 21300000, guid: ed4b25b4c1357724f8efc6fc04b1555c, type: 3}
+  - {fileID: 21300000, guid: ff2045a53f86eab489a810e0a9bafacd, type: 3}
+  - {fileID: 21300000, guid: f1caa7d5600bfc946bc4a3a5645d522d, type: 3}
+  - {fileID: 21300000, guid: d31ea0271e02b0346a055574e5c8a7ca, type: 3}
+  - {fileID: 21300000, guid: f7cc5a273a14f5e4982b7bbd13afdf0c, type: 3}
+  - {fileID: 21300000, guid: 6aaa58081aa64b24d89eb935737310d9, type: 3}
+  - {fileID: 21300000, guid: d467e4e93acd8cb45a947e046cfd908c, type: 3}
+  - {fileID: 21300000, guid: 0bb7a08a764cc9944a0389528646b387, type: 3}
+  - {fileID: 21300000, guid: f9e525fa3ac67514db4128d273a8b4c3, type: 3}
+  - {fileID: 21300000, guid: e58974bc9a1673345b12b7c00b615d8d, type: 3}
+  - {fileID: 21300000, guid: 855ba7cc4ffeb6d4881dab231db5a0c5, type: 3}
+  - {fileID: 21300000, guid: 1409c1dcb12b8bd46b1575064cb65d65, type: 3}
+  - {fileID: 21300000, guid: 6e5eefbe9c2a59040abbf5fabdbbc1ba, type: 3}
+  - {fileID: 21300000, guid: 4b9d794f6a8547c41a70ae6f66441f8b, type: 3}
+  - {fileID: 21300000, guid: 8382536fae0566e4da82669e5a0d2293, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - dirt_10
+  - dirt_13
+  - dirt_18
+  - dirt_14
+  - dirt_03
+  - dirt_07
+  - dirt_19
+  - dirt_05
+  - dirt_16
+  - dirt_09
+  - dirt_08
+  - dirt_15
+  - dirt_04
+  - dirt_11
+  - dirt_12
+  - dirt_02
+  - dirt_06
+  - dirt_17
+  - dirt_01
+  m_RenderDataMap: {}
+  m_Tag: Tiles_Terrain_Dirt
+  m_IsVariant: 0

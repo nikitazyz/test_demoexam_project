@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tiles_Terrain_Grass
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 8e174cca73390d446ad661909bc85f8a, type: 3}
+    - {fileID: 2800000, guid: 742d3154310c21947a04f7e41f2e3c71, type: 3}
+    - {fileID: 2800000, guid: 05428526ac271164282e3a23dbb99bfd, type: 3}
+    - {fileID: 2800000, guid: a9dc36556388d3543bfe0634c4e0c1ae, type: 3}
+    - {fileID: 2800000, guid: 94b1395baaa075f4e99e849ffbeb640b, type: 3}
+    - {fileID: 2800000, guid: 37c787849a2fd524aa0c8fe3f5dd7eea, type: 3}
+    - {fileID: 2800000, guid: 43c250656fca48a48a7648c6fe67e755, type: 3}
+    - {fileID: 2800000, guid: 2405a0a0f2f87b5438315aebe2a58904, type: 3}
+    - {fileID: 2800000, guid: 0a152aa9d0c504a4eabf339f59dd694d, type: 3}
+    - {fileID: 2800000, guid: 32f79e6b2d3bacb4daf627469f2820ad, type: 3}
+    - {fileID: 2800000, guid: 40b8791f25644f942823a92375bb068e, type: 3}
+    - {fileID: 2800000, guid: 0eef394e0c1e3e44ebba0cc5468a426b, type: 3}
+    - {fileID: 2800000, guid: c32e4ce7b09aab24b9badaf01353d77c, type: 3}
+    - {fileID: 2800000, guid: 267d3c22b11c0524dac831fd4d968c15, type: 3}
+    - {fileID: 2800000, guid: b51c1cc99af1fbd45932ac1ec8b2bf8d, type: 3}
+    - {fileID: 2800000, guid: dc40ef1a1f3bd71448afed91ae57667a, type: 3}
+    - {fileID: 2800000, guid: 11bea0186a124c241a171620cab32690, type: 3}
+    - {fileID: 2800000, guid: aa6d9ee3a72efe14ca8ffd161cd09cd8, type: 3}
+    - {fileID: 2800000, guid: dc1a57fc408a47546b3e6039c960eb18, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2405a0a0f2f87b5438315aebe2a58904, type: 3}
+  - {fileID: 21300000, guid: 267d3c22b11c0524dac831fd4d968c15, type: 3}
+  - {fileID: 21300000, guid: aa6d9ee3a72efe14ca8ffd161cd09cd8, type: 3}
+  - {fileID: 21300000, guid: 742d3154310c21947a04f7e41f2e3c71, type: 3}
+  - {fileID: 21300000, guid: 37c787849a2fd524aa0c8fe3f5dd7eea, type: 3}
+  - {fileID: 21300000, guid: a9dc36556388d3543bfe0634c4e0c1ae, type: 3}
+  - {fileID: 21300000, guid: 43c250656fca48a48a7648c6fe67e755, type: 3}
+  - {fileID: 21300000, guid: 05428526ac271164282e3a23dbb99bfd, type: 3}
+  - {fileID: 21300000, guid: c32e4ce7b09aab24b9badaf01353d77c, type: 3}
+  - {fileID: 21300000, guid: 11bea0186a124c241a171620cab32690, type: 3}
+  - {fileID: 21300000, guid: 0a152aa9d0c504a4eabf339f59dd694d, type: 3}
+  - {fileID: 21300000, guid: b51c1cc99af1fbd45932ac1ec8b2bf8d, type: 3}
+  - {fileID: 21300000, guid: dc40ef1a1f3bd71448afed91ae57667a, type: 3}
+  - {fileID: 21300000, guid: 8e174cca73390d446ad661909bc85f8a, type: 3}
+  - {fileID: 21300000, guid: 94b1395baaa075f4e99e849ffbeb640b, type: 3}
+  - {fileID: 21300000, guid: 32f79e6b2d3bacb4daf627469f2820ad, type: 3}
+  - {fileID: 21300000, guid: dc1a57fc408a47546b3e6039c960eb18, type: 3}
+  - {fileID: 21300000, guid: 0eef394e0c1e3e44ebba0cc5468a426b, type: 3}
+  - {fileID: 21300000, guid: 40b8791f25644f942823a92375bb068e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - grass_08
+  - grass_14
+  - grass_18
+  - grass_02
+  - grass_06
+  - grass_04
+  - grass_07
+  - grass_03
+  - grass_13
+  - grass_17
+  - grass_09
+  - grass_15
+  - grass_16
+  - grass_01
+  - grass_05
+  - grass_10
+  - grass_19
+  - grass_12
+  - grass_11
+  m_RenderDataMap: {}
+  m_Tag: Tiles_Terrain_Grass
+  m_IsVariant: 0

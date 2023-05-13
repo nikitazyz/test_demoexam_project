@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tiles_Terrain_Stone
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: c06473dfa5a222e4fa69b363be30799c, type: 3}
+    - {fileID: 2800000, guid: 6238fdb09a58f3547a74ae7613c4386c, type: 3}
+    - {fileID: 2800000, guid: 5a4194212f4953e4198234576cc894e4, type: 3}
+    - {fileID: 2800000, guid: 3361c6c98f619d5409de1c0a70d81521, type: 3}
+    - {fileID: 2800000, guid: c4137121d45397f4ba5b9e0c13cc2f3b, type: 3}
+    - {fileID: 2800000, guid: bb9d422e250d94f43a927e9f9e70acea, type: 3}
+    - {fileID: 2800000, guid: 3e08454bdd590044194ab80750464a2a, type: 3}
+    - {fileID: 2800000, guid: eae6533a52942b442a5341cdfae0a8ae, type: 3}
+    - {fileID: 2800000, guid: c2533dfe1fc5f14488218e0d8099c203, type: 3}
+    - {fileID: 2800000, guid: 434bd93f9b25db44aaa8437b86db87aa, type: 3}
+    - {fileID: 2800000, guid: 2dccb7b5024044b45a70eb8f8ff166c5, type: 3}
+    - {fileID: 2800000, guid: 674dd9397d7ae974fb4e8df34632c00a, type: 3}
+    - {fileID: 2800000, guid: 7eee15642344f994b8279159be448ac2, type: 3}
+    - {fileID: 2800000, guid: 2cc9370af069e7c43a014de1afdb3794, type: 3}
+    - {fileID: 2800000, guid: 0b29f525ec37c4948a2d609ec0c4793c, type: 3}
+    - {fileID: 2800000, guid: 0cba030f60fbed844ad14fb3accc1323, type: 3}
+    - {fileID: 2800000, guid: 3dead31c285507c49b3871b82666e2bf, type: 3}
+    - {fileID: 2800000, guid: b591bc30bd2b35142895f63a23590fb7, type: 3}
+    - {fileID: 2800000, guid: fdce2fd55164d734499fde0d10555a45, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b591bc30bd2b35142895f63a23590fb7, type: 3}
+  - {fileID: 21300000, guid: 6238fdb09a58f3547a74ae7613c4386c, type: 3}
+  - {fileID: 21300000, guid: c4137121d45397f4ba5b9e0c13cc2f3b, type: 3}
+  - {fileID: 21300000, guid: 5a4194212f4953e4198234576cc894e4, type: 3}
+  - {fileID: 21300000, guid: 7eee15642344f994b8279159be448ac2, type: 3}
+  - {fileID: 21300000, guid: 0b29f525ec37c4948a2d609ec0c4793c, type: 3}
+  - {fileID: 21300000, guid: 2dccb7b5024044b45a70eb8f8ff166c5, type: 3}
+  - {fileID: 21300000, guid: fdce2fd55164d734499fde0d10555a45, type: 3}
+  - {fileID: 21300000, guid: 674dd9397d7ae974fb4e8df34632c00a, type: 3}
+  - {fileID: 21300000, guid: 3361c6c98f619d5409de1c0a70d81521, type: 3}
+  - {fileID: 21300000, guid: 2cc9370af069e7c43a014de1afdb3794, type: 3}
+  - {fileID: 21300000, guid: eae6533a52942b442a5341cdfae0a8ae, type: 3}
+  - {fileID: 21300000, guid: 3e08454bdd590044194ab80750464a2a, type: 3}
+  - {fileID: 21300000, guid: 3dead31c285507c49b3871b82666e2bf, type: 3}
+  - {fileID: 21300000, guid: bb9d422e250d94f43a927e9f9e70acea, type: 3}
+  - {fileID: 21300000, guid: c2533dfe1fc5f14488218e0d8099c203, type: 3}
+  - {fileID: 21300000, guid: 0cba030f60fbed844ad14fb3accc1323, type: 3}
+  - {fileID: 21300000, guid: 434bd93f9b25db44aaa8437b86db87aa, type: 3}
+  - {fileID: 21300000, guid: c06473dfa5a222e4fa69b363be30799c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - stone_18
+  - stone_02
+  - stone_05
+  - stone_03
+  - stone_13
+  - stone_15
+  - stone_11
+  - stone_19
+  - stone_12
+  - stone_04
+  - stone_14
+  - stone_08
+  - stone_07
+  - stone_17
+  - stone_06
+  - stone_09
+  - stone_16
+  - stone_10
+  - stone_01
+  m_RenderDataMap: {}
+  m_Tag: Tiles_Terrain_Stone
+  m_IsVariant: 0

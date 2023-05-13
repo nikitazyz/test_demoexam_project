@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Characters_ElfGirl
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 8a79bde207e5f60478c862399072a5b8, type: 3}
+    - {fileID: 2800000, guid: 7d99488d7ba3b6e498e3c06997a29cf2, type: 3}
+    - {fileID: 2800000, guid: 7baf2224a2c727041b193ee9f05b94cc, type: 3}
+    - {fileID: 2800000, guid: 4bdfd9b730e1678468111b75f35babd4, type: 3}
+    - {fileID: 2800000, guid: 73f09fa04dca72148a6adba70757acab, type: 3}
+    - {fileID: 2800000, guid: d592361b863943f46b176f97e226b2ee, type: 3}
+    - {fileID: 2800000, guid: a15215eda87d0844ea3888deb516a5c9, type: 3}
+    - {fileID: 2800000, guid: caf4a48e1633167419f364263f50a149, type: 3}
+    - {fileID: 2800000, guid: 48840f3fbc829a147b4017443d46e6ea, type: 3}
+    - {fileID: 2800000, guid: afc19151f0c18994b945c1066a96dbe0, type: 3}
+    - {fileID: 2800000, guid: 636e7447c758c17419a5c7acd831cf8f, type: 3}
+    - {fileID: 2800000, guid: 4c097f3a0d2294e4ab12960b00d28908, type: 3}
+    - {fileID: 2800000, guid: c8ffe10f24178df4499bdba1be191a18, type: 3}
+    - {fileID: 2800000, guid: 40f9e3bfe5f38214a9290aa849fef4e9, type: 3}
+    - {fileID: 2800000, guid: 403aca98f4015d54fae1b35644020b65, type: 3}
+    - {fileID: 2800000, guid: a16ada991fe389745a2174852716796a, type: 3}
+    - {fileID: 2800000, guid: 72d15f7c5d9441742a4274c625ca7193, type: 3}
+    - {fileID: 2800000, guid: 97301a87077b9ca4b97dbd7ab259bfbd, type: 3}
+    - {fileID: 2800000, guid: cc59cba489d90d944b91f37f212ef76b, type: 3}
+    - {fileID: 2800000, guid: ef8a39b37e98b004abab516ff5f417fe, type: 3}
+    - {fileID: 2800000, guid: 7ca571ce5495de04197ca38e6b953945, type: 3}
+    - {fileID: 2800000, guid: 4d37953940b2030409238e585f790695, type: 3}
+    - {fileID: 2800000, guid: d91d7eaa86b964d4c81c54bfd2e197f0, type: 3}
+    - {fileID: 2800000, guid: 4f924ee2fc34a614286f5a9d6c2e8073, type: 3}
+    - {fileID: 2800000, guid: b65d49acbd04f074fa4e614335f02adb, type: 3}
+    - {fileID: 2800000, guid: 1f492bc2aafdce149acf760874d0d953, type: 3}
+    - {fileID: 2800000, guid: d1cc41cccf7523a439ae0a5a77894377, type: 3}
+    - {fileID: 2800000, guid: 7cfde6e0549446a4d8be5c07c19eebc1, type: 3}
+    - {fileID: 2800000, guid: 3ffc45d6ac909084ca1ce81392c04a1c, type: 3}
+    - {fileID: 2800000, guid: 4a4b8628d40641e458ef4e6a61449095, type: 3}
+    - {fileID: 2800000, guid: 3cd14b3960026dd4c8cde6bd28d8779b, type: 3}
+    - {fileID: 2800000, guid: 35acf76a30ff2484ea71f7c6d8f6da97, type: 3}
+    - {fileID: 2800000, guid: e440fb42375e0b84eadc9bc14b9ab82f, type: 3}
+    - {fileID: 2800000, guid: 384f8e623d8ffe94896ab063ea758d87, type: 3}
+    - {fileID: 2800000, guid: 31c5cf6757fd4cf48813e7ac795d7b41, type: 3}
+    - {fileID: 2800000, guid: 3ae5d55ffbdedf34c8adf87ebaec3eb8, type: 3}
+    - {fileID: 2800000, guid: 3b2004d0df9f71842a7dad2248c632fc, type: 3}
+    - {fileID: 2800000, guid: 36a0cf017a25ad94788a6d5eeccde38d, type: 3}
+    - {fileID: 2800000, guid: 6d34a554017fa8341b06973d217611f5, type: 3}
+    - {fileID: 2800000, guid: 4d08e76864f173a448e0eb4d5507c23e, type: 3}
+    - {fileID: 2800000, guid: 4fe5932ae9746d54f8b10140d164fc84, type: 3}
+    - {fileID: 2800000, guid: b86318f97ad07ea4d83d169ef2a6dae3, type: 3}
+    - {fileID: 2800000, guid: ef945cae38502b1479c5147594446cf8, type: 3}
+    - {fileID: 2800000, guid: 6681e1c83fef6fc47a0d3224cbdaf7ae, type: 3}
+    - {fileID: 2800000, guid: 938ec2ff4b803944ab1662b350e25cb1, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 73f09fa04dca72148a6adba70757acab, type: 3}
+  - {fileID: 21300000, guid: 3b2004d0df9f71842a7dad2248c632fc, type: 3}
+  - {fileID: 21300000, guid: 7cfde6e0549446a4d8be5c07c19eebc1, type: 3}
+  - {fileID: 21300000, guid: 36a0cf017a25ad94788a6d5eeccde38d, type: 3}
+  - {fileID: 21300000, guid: afc19151f0c18994b945c1066a96dbe0, type: 3}
+  - {fileID: 21300000, guid: e440fb42375e0b84eadc9bc14b9ab82f, type: 3}
+  - {fileID: 21300000, guid: 384f8e623d8ffe94896ab063ea758d87, type: 3}
+  - {fileID: 21300000, guid: 1f492bc2aafdce149acf760874d0d953, type: 3}
+  - {fileID: 21300000, guid: 8a79bde207e5f60478c862399072a5b8, type: 3}
+  - {fileID: 21300000, guid: 4f924ee2fc34a614286f5a9d6c2e8073, type: 3}
+  - {fileID: 21300000, guid: ef8a39b37e98b004abab516ff5f417fe, type: 3}
+  - {fileID: 21300000, guid: 7baf2224a2c727041b193ee9f05b94cc, type: 3}
+  - {fileID: 21300000, guid: 6d34a554017fa8341b06973d217611f5, type: 3}
+  - {fileID: 21300000, guid: cc59cba489d90d944b91f37f212ef76b, type: 3}
+  - {fileID: 21300000, guid: 3ffc45d6ac909084ca1ce81392c04a1c, type: 3}
+  - {fileID: 21300000, guid: 636e7447c758c17419a5c7acd831cf8f, type: 3}
+  - {fileID: 21300000, guid: 31c5cf6757fd4cf48813e7ac795d7b41, type: 3}
+  - {fileID: 21300000, guid: 97301a87077b9ca4b97dbd7ab259bfbd, type: 3}
+  - {fileID: 21300000, guid: 4bdfd9b730e1678468111b75f35babd4, type: 3}
+  - {fileID: 21300000, guid: 4a4b8628d40641e458ef4e6a61449095, type: 3}
+  - {fileID: 21300000, guid: 4d08e76864f173a448e0eb4d5507c23e, type: 3}
+  - {fileID: 21300000, guid: 403aca98f4015d54fae1b35644020b65, type: 3}
+  - {fileID: 21300000, guid: 6681e1c83fef6fc47a0d3224cbdaf7ae, type: 3}
+  - {fileID: 21300000, guid: 4d37953940b2030409238e585f790695, type: 3}
+  - {fileID: 21300000, guid: 3cd14b3960026dd4c8cde6bd28d8779b, type: 3}
+  - {fileID: 21300000, guid: a16ada991fe389745a2174852716796a, type: 3}
+  - {fileID: 21300000, guid: b86318f97ad07ea4d83d169ef2a6dae3, type: 3}
+  - {fileID: 21300000, guid: 4fe5932ae9746d54f8b10140d164fc84, type: 3}
+  - {fileID: 21300000, guid: 4c097f3a0d2294e4ab12960b00d28908, type: 3}
+  - {fileID: 21300000, guid: 35acf76a30ff2484ea71f7c6d8f6da97, type: 3}
+  - {fileID: 21300000, guid: d91d7eaa86b964d4c81c54bfd2e197f0, type: 3}
+  - {fileID: 21300000, guid: d592361b863943f46b176f97e226b2ee, type: 3}
+  - {fileID: 21300000, guid: 72d15f7c5d9441742a4274c625ca7193, type: 3}
+  - {fileID: 21300000, guid: b65d49acbd04f074fa4e614335f02adb, type: 3}
+  - {fileID: 21300000, guid: d1cc41cccf7523a439ae0a5a77894377, type: 3}
+  - {fileID: 21300000, guid: 7d99488d7ba3b6e498e3c06997a29cf2, type: 3}
+  - {fileID: 21300000, guid: a15215eda87d0844ea3888deb516a5c9, type: 3}
+  - {fileID: 21300000, guid: caf4a48e1633167419f364263f50a149, type: 3}
+  - {fileID: 21300000, guid: ef945cae38502b1479c5147594446cf8, type: 3}
+  - {fileID: 21300000, guid: 7ca571ce5495de04197ca38e6b953945, type: 3}
+  - {fileID: 21300000, guid: c8ffe10f24178df4499bdba1be191a18, type: 3}
+  - {fileID: 21300000, guid: 48840f3fbc829a147b4017443d46e6ea, type: 3}
+  - {fileID: 21300000, guid: 3ae5d55ffbdedf34c8adf87ebaec3eb8, type: 3}
+  - {fileID: 21300000, guid: 40f9e3bfe5f38214a9290aa849fef4e9, type: 3}
+  - {fileID: 21300000, guid: 938ec2ff4b803944ab1662b350e25cb1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - character_femaleAdventurer_back
+  - character_femaleAdventurer_walk0
+  - character_femaleAdventurer_shove
+  - character_femaleAdventurer_walk1
+  - character_femaleAdventurer_climb1
+  - character_femaleAdventurer_switch0
+  - character_femaleAdventurer_switch1
+  - character_femaleAdventurer_run1
+  - character_femaleAdventurer_attack0
+  - character_femaleAdventurer_rope
+  - character_femaleAdventurer_idle
+  - character_femaleAdventurer_attack2
+  - character_femaleAdventurer_walk2
+  - character_femaleAdventurer_hurt
+  - character_femaleAdventurer_shoveBack
+  - character_femaleAdventurer_down
+  - character_femaleAdventurer_talk
+  - character_femaleAdventurer_hold
+  - character_femaleAdventurer_attackKick
+  - character_femaleAdventurer_show
+  - character_femaleAdventurer_walk3
+  - character_femaleAdventurer_fallDown
+  - character_femaleAdventurer_walk7
+  - character_femaleAdventurer_jump
+  - character_femaleAdventurer_side
+  - character_femaleAdventurer_hang
+  - character_femaleAdventurer_walk5
+  - character_femaleAdventurer_walk4
+  - character_femaleAdventurer_drag
+  - character_femaleAdventurer_slide
+  - character_femaleAdventurer_kick
+  - character_femaleAdventurer_behindBack
+  - character_femaleAdventurer_hit
+  - character_femaleAdventurer_run0
+  - character_femaleAdventurer_run2
+  - character_femaleAdventurer_attack1
+  - character_femaleAdventurer_cheer0
+  - character_femaleAdventurer_cheer1
+  - character_femaleAdventurer_walk6
+  - character_femaleAdventurer_interact
+  - character_femaleAdventurer_duck
+  - character_femaleAdventurer_climb0
+  - character_femaleAdventurer_think
+  - character_femaleAdventurer_fall
+  - character_femaleAdventurer_wide
+  m_RenderDataMap: {}
+  m_Tag: Characters_ElfGirl
+  m_IsVariant: 0

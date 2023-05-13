@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tiles_Western
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: e1100d434981dab46a0dcaef0f080426, type: 3}
+    - {fileID: 2800000, guid: f55ca947e1bfe2847acf1c96370a9072, type: 3}
+    - {fileID: 2800000, guid: a23106a1835590344b7a6337c419ab48, type: 3}
+    - {fileID: 2800000, guid: 6f80bb8affa762047b356f3c742b59fa, type: 3}
+    - {fileID: 2800000, guid: ff0372945ead40743a6193231f0ee7cb, type: 3}
+    - {fileID: 2800000, guid: 184a744f67bf01541adcb54642704c44, type: 3}
+    - {fileID: 2800000, guid: 71d0fef4c138d2942b256fd5b54ffbbd, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a23106a1835590344b7a6337c419ab48, type: 3}
+  - {fileID: 21300000, guid: e1100d434981dab46a0dcaef0f080426, type: 3}
+  - {fileID: 21300000, guid: ff0372945ead40743a6193231f0ee7cb, type: 3}
+  - {fileID: 21300000, guid: 71d0fef4c138d2942b256fd5b54ffbbd, type: 3}
+  - {fileID: 21300000, guid: f55ca947e1bfe2847acf1c96370a9072, type: 3}
+  - {fileID: 21300000, guid: 6f80bb8affa762047b356f3c742b59fa, type: 3}
+  - {fileID: 21300000, guid: 184a744f67bf01541adcb54642704c44, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - western_indians
+  - western_bank
+  - western_sheriff
+  - western_watertower
+  - western_general
+  - western_saloon
+  - western_station
+  m_RenderDataMap: {}
+  m_Tag: Tiles_Western
+  m_IsVariant: 0

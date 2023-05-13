@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI_rating
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: a175b2aa874b3b64598907f365dddf97, type: 3}
+    - {fileID: 2800000, guid: 67ee46dbd0c001645a6e0bff038502ec, type: 3}
+    - {fileID: 2800000, guid: b19299135f237304695cea25c9d0ce0e, type: 3}
+    - {fileID: 2800000, guid: 945b277cd4c1c1f4bb52c0801dbfa141, type: 3}
+    - {fileID: 2800000, guid: b3e06f9163c0d5a409ab6504f6defd27, type: 3}
+    - {fileID: 2800000, guid: e34e4c41a5303f844ae7e579fa57399d, type: 3}
+    - {fileID: 2800000, guid: 18175632bc9dbd3429d865fa1d838bd8, type: 3}
+    - {fileID: 2800000, guid: 3067f6b66ba0fda4c9ee6eba47d4aae4, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e34e4c41a5303f844ae7e579fa57399d, type: 3}
+  - {fileID: 21300000, guid: b3e06f9163c0d5a409ab6504f6defd27, type: 3}
+  - {fileID: 21300000, guid: 18175632bc9dbd3429d865fa1d838bd8, type: 3}
+  - {fileID: 21300000, guid: b19299135f237304695cea25c9d0ce0e, type: 3}
+  - {fileID: 21300000, guid: 3067f6b66ba0fda4c9ee6eba47d4aae4, type: 3}
+  - {fileID: 21300000, guid: a175b2aa874b3b64598907f365dddf97, type: 3}
+  - {fileID: 21300000, guid: 67ee46dbd0c001645a6e0bff038502ec, type: 3}
+  - {fileID: 21300000, guid: 945b277cd4c1c1f4bb52c0801dbfa141, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - header
+  - face
+  - scroll
+  - close_2
+  - table
+  - bg
+  - btn
+  - dot
+  m_RenderDataMap: {}
+  m_Tag: UI_rating
+  m_IsVariant: 0

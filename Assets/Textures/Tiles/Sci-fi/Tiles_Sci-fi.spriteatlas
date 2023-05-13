@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tiles_Sci-fi
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 9f3c545362dd7f845b9ef6485d819532, type: 3}
+    - {fileID: 2800000, guid: 59a9e57040689c54f9acd0637dbffe96, type: 3}
+    - {fileID: 2800000, guid: 42a389d7987f84a4ead597f9c8670d7c, type: 3}
+    - {fileID: 2800000, guid: 32d3aaeb8157680428c0633656ebcdf1, type: 3}
+    - {fileID: 2800000, guid: 562e134f55a6b8f4893c2d1988948b5e, type: 3}
+    - {fileID: 2800000, guid: e858dbbc6399ce045818925a646a7740, type: 3}
+    - {fileID: 2800000, guid: 6e46f4debdc41bd42b4b077c9cacd1b4, type: 3}
+    - {fileID: 2800000, guid: f8391c2ad8ea57c469b5f13af998da64, type: 3}
+    - {fileID: 2800000, guid: 72516928330e8c448b9124b64fc01aeb, type: 3}
+    - {fileID: 2800000, guid: 523f342abe1510b4da4690c3409e1372, type: 3}
+    - {fileID: 2800000, guid: 67cec3522a3d8c94fb1a45af8ea62529, type: 3}
+    - {fileID: 2800000, guid: aab9c1ae65be8734d99f36ea0b2b15f9, type: 3}
+    - {fileID: 2800000, guid: 38f58367d5bb1ae4c87e00bbdf814b7a, type: 3}
+    - {fileID: 2800000, guid: e86fa2c0364ec96488a0ea500804abb7, type: 3}
+    - {fileID: 2800000, guid: dc44c854b3a34cb4d9eda351406f1d62, type: 3}
+    - {fileID: 2800000, guid: c3fb91b696089134084da83211bb10d1, type: 3}
+    - {fileID: 2800000, guid: cd3252146b2329f48aee0e5a3bd422e0, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 59a9e57040689c54f9acd0637dbffe96, type: 3}
+  - {fileID: 21300000, guid: e86fa2c0364ec96488a0ea500804abb7, type: 3}
+  - {fileID: 21300000, guid: 67cec3522a3d8c94fb1a45af8ea62529, type: 3}
+  - {fileID: 21300000, guid: 9f3c545362dd7f845b9ef6485d819532, type: 3}
+  - {fileID: 21300000, guid: cd3252146b2329f48aee0e5a3bd422e0, type: 3}
+  - {fileID: 21300000, guid: dc44c854b3a34cb4d9eda351406f1d62, type: 3}
+  - {fileID: 21300000, guid: c3fb91b696089134084da83211bb10d1, type: 3}
+  - {fileID: 21300000, guid: 38f58367d5bb1ae4c87e00bbdf814b7a, type: 3}
+  - {fileID: 21300000, guid: 42a389d7987f84a4ead597f9c8670d7c, type: 3}
+  - {fileID: 21300000, guid: 72516928330e8c448b9124b64fc01aeb, type: 3}
+  - {fileID: 21300000, guid: 523f342abe1510b4da4690c3409e1372, type: 3}
+  - {fileID: 21300000, guid: f8391c2ad8ea57c469b5f13af998da64, type: 3}
+  - {fileID: 21300000, guid: 32d3aaeb8157680428c0633656ebcdf1, type: 3}
+  - {fileID: 21300000, guid: e858dbbc6399ce045818925a646a7740, type: 3}
+  - {fileID: 21300000, guid: aab9c1ae65be8734d99f36ea0b2b15f9, type: 3}
+  - {fileID: 21300000, guid: 6e46f4debdc41bd42b4b077c9cacd1b4, type: 3}
+  - {fileID: 21300000, guid: 562e134f55a6b8f4893c2d1988948b5e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - scifi_building
+  - scifi_port
+  - scifi_hangar
+  - scifi_base
+  - scifi_tower
+  - scifi_silo
+  - scifi_skyscraper
+  - scifi_living
+  - scifi_cargo
+  - scifi_factoryHigh
+  - scifi_foliage
+  - scifi_factoryHangar
+  - scifi_corner
+  - scifi_energy
+  - scifi_headquarters
+  - scifi_factory
+  - scifi_domes
+  m_RenderDataMap: {}
+  m_Tag: Tiles_Sci-fi
+  m_IsVariant: 0

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tiles_Military
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 06f1596540b8c3b468df595db7fcc5e4, type: 3}
+    - {fileID: 2800000, guid: ee32673f170bad649ac1eabcb5fa57f4, type: 3}
+    - {fileID: 2800000, guid: 97353c77c0bed8c49b311d7139577650, type: 3}
+    - {fileID: 2800000, guid: d9b61535273d63e43a18f24fe3028d1d, type: 3}
+    - {fileID: 2800000, guid: cef2e84467f88654b83e6610bd0a1c7c, type: 3}
+    - {fileID: 2800000, guid: 5c30514d05ec7a648a55f260b22f2ee0, type: 3}
+    - {fileID: 2800000, guid: 6432f79cfa0e98343a18a520a66e92d0, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: cef2e84467f88654b83e6610bd0a1c7c, type: 3}
+  - {fileID: 21300000, guid: d9b61535273d63e43a18f24fe3028d1d, type: 3}
+  - {fileID: 21300000, guid: 06f1596540b8c3b468df595db7fcc5e4, type: 3}
+  - {fileID: 21300000, guid: 97353c77c0bed8c49b311d7139577650, type: 3}
+  - {fileID: 21300000, guid: 6432f79cfa0e98343a18a520a66e92d0, type: 3}
+  - {fileID: 21300000, guid: 5c30514d05ec7a648a55f260b22f2ee0, type: 3}
+  - {fileID: 21300000, guid: ee32673f170bad649ac1eabcb5fa57f4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - military_turretLarge
+  - military_tanks
+  - military_entrance
+  - military_rockets
+  - military_turretSmall
+  - military_turretMedium
+  - military_hangar
+  m_RenderDataMap: {}
+  m_Tag: Tiles_Military
+  m_IsVariant: 0

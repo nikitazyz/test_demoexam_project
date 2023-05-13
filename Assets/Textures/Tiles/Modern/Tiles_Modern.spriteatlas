@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tiles_Modern
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 94917b336c5450942877d58fd7a21cd2, type: 3}
+    - {fileID: 2800000, guid: d6a8e1655767a674a916e31e04a282d5, type: 3}
+    - {fileID: 2800000, guid: c3e46ee4447cf8548bae2466e0ba6fcd, type: 3}
+    - {fileID: 2800000, guid: f55d930196a78674e93e117b084b77cd, type: 3}
+    - {fileID: 2800000, guid: 62eac88d133d3394da3bb8bdf8d16d89, type: 3}
+    - {fileID: 2800000, guid: a547d327a7b930c4c88d40cdb34d4c4b, type: 3}
+    - {fileID: 2800000, guid: 01f3abcc3d579084ba380ddfe0639430, type: 3}
+    - {fileID: 2800000, guid: 8f3b8728ec8fc9f4487e56992803d225, type: 3}
+    - {fileID: 2800000, guid: 2e31c0d1429787b429b5307169bdaa3c, type: 3}
+    - {fileID: 2800000, guid: e5b3ec8570a12ad439857c05c6092728, type: 3}
+    - {fileID: 2800000, guid: 87522b3d689b45a4794bc403b4f20071, type: 3}
+    - {fileID: 2800000, guid: 84ada265c271c1b40ab206b370eb9337, type: 3}
+    - {fileID: 2800000, guid: 8de7dd79f86474445be0176758205e62, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f55d930196a78674e93e117b084b77cd, type: 3}
+  - {fileID: 21300000, guid: 2e31c0d1429787b429b5307169bdaa3c, type: 3}
+  - {fileID: 21300000, guid: 94917b336c5450942877d58fd7a21cd2, type: 3}
+  - {fileID: 21300000, guid: c3e46ee4447cf8548bae2466e0ba6fcd, type: 3}
+  - {fileID: 21300000, guid: d6a8e1655767a674a916e31e04a282d5, type: 3}
+  - {fileID: 21300000, guid: 84ada265c271c1b40ab206b370eb9337, type: 3}
+  - {fileID: 21300000, guid: e5b3ec8570a12ad439857c05c6092728, type: 3}
+  - {fileID: 21300000, guid: a547d327a7b930c4c88d40cdb34d4c4b, type: 3}
+  - {fileID: 21300000, guid: 8f3b8728ec8fc9f4487e56992803d225, type: 3}
+  - {fileID: 21300000, guid: 8de7dd79f86474445be0176758205e62, type: 3}
+  - {fileID: 21300000, guid: 01f3abcc3d579084ba380ddfe0639430, type: 3}
+  - {fileID: 21300000, guid: 87522b3d689b45a4794bc403b4f20071, type: 3}
+  - {fileID: 21300000, guid: 62eac88d133d3394da3bb8bdf8d16d89, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - modern_houseSmall
+  - modern_skyscraper
+  - modern_campsite
+  - modern_house
+  - modern_cornerShop
+  - modern_villa
+  - modern_skyscraperGlass
+  - modern_oldBuilding
+  - modern_shop
+  - modern_villageLarge
+  - modern_petrol
+  - modern_trailerpark
+  - modern_largeBuilding
+  m_RenderDataMap: {}
+  m_Tag: Tiles_Modern
+  m_IsVariant: 0

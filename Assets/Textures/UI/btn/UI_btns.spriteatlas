@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI_btns
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 3ebb7a750fc4ec340a0d87ad652d9c51, type: 3}
+    - {fileID: 2800000, guid: 036487fab76111d48a3f2182d7bd18b5, type: 3}
+    - {fileID: 2800000, guid: 70ba6b02e8a73bc4c8e58fb444633b95, type: 3}
+    - {fileID: 2800000, guid: e425b88abf483724085e83ac91105191, type: 3}
+    - {fileID: 2800000, guid: d6aa894dd0a833e48aa5bc459783f2a3, type: 3}
+    - {fileID: 2800000, guid: c6fe54149ffe76345b21956916942b13, type: 3}
+    - {fileID: 2800000, guid: d944606f4ab2a43468d768bdff1090c6, type: 3}
+    - {fileID: 2800000, guid: 77220648126fb92499e07aa4cc91c512, type: 3}
+    - {fileID: 2800000, guid: a81ee54bf52eb034095dbf34725605f3, type: 3}
+    - {fileID: 2800000, guid: f8869e35ed335a04ab2f72927c4c3c7b, type: 3}
+    - {fileID: 2800000, guid: 72a8d5a5391bd134c97c298c5959a42b, type: 3}
+    - {fileID: 2800000, guid: a1305205a5006fa40b2dc95c65db6f41, type: 3}
+    - {fileID: 2800000, guid: 300deb69f11b166439598e8adc44b9df, type: 3}
+    - {fileID: 2800000, guid: 922774190767b6a46957dc89b3843b40, type: 3}
+    - {fileID: 2800000, guid: 219e93e11c64805429eb469f4c396dec, type: 3}
+    - {fileID: 2800000, guid: eb8749cae1ab3854d86c89965b6a3776, type: 3}
+    - {fileID: 2800000, guid: 2b516e92b3c3daf40b38e9daf85e9df8, type: 3}
+    - {fileID: 2800000, guid: 7c64caca3a0e15547ade660af6b1a956, type: 3}
+    - {fileID: 2800000, guid: fd08d3407cfbb014ba1953d41a5e8541, type: 3}
+    - {fileID: 2800000, guid: 1a80000ee5bb2e24793584637007a410, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fd08d3407cfbb014ba1953d41a5e8541, type: 3}
+  - {fileID: 21300000, guid: 219e93e11c64805429eb469f4c396dec, type: 3}
+  - {fileID: 21300000, guid: 70ba6b02e8a73bc4c8e58fb444633b95, type: 3}
+  - {fileID: 21300000, guid: 2b516e92b3c3daf40b38e9daf85e9df8, type: 3}
+  - {fileID: 21300000, guid: c6fe54149ffe76345b21956916942b13, type: 3}
+  - {fileID: 21300000, guid: a1305205a5006fa40b2dc95c65db6f41, type: 3}
+  - {fileID: 21300000, guid: f8869e35ed335a04ab2f72927c4c3c7b, type: 3}
+  - {fileID: 21300000, guid: 3ebb7a750fc4ec340a0d87ad652d9c51, type: 3}
+  - {fileID: 21300000, guid: 72a8d5a5391bd134c97c298c5959a42b, type: 3}
+  - {fileID: 21300000, guid: 77220648126fb92499e07aa4cc91c512, type: 3}
+  - {fileID: 21300000, guid: 922774190767b6a46957dc89b3843b40, type: 3}
+  - {fileID: 21300000, guid: 300deb69f11b166439598e8adc44b9df, type: 3}
+  - {fileID: 21300000, guid: e425b88abf483724085e83ac91105191, type: 3}
+  - {fileID: 21300000, guid: eb8749cae1ab3854d86c89965b6a3776, type: 3}
+  - {fileID: 21300000, guid: 7c64caca3a0e15547ade660af6b1a956, type: 3}
+  - {fileID: 21300000, guid: 036487fab76111d48a3f2182d7bd18b5, type: 3}
+  - {fileID: 21300000, guid: a81ee54bf52eb034095dbf34725605f3, type: 3}
+  - {fileID: 21300000, guid: d6aa894dd0a833e48aa5bc459783f2a3, type: 3}
+  - {fileID: 21300000, guid: 1a80000ee5bb2e24793584637007a410, type: 3}
+  - {fileID: 21300000, guid: d944606f4ab2a43468d768bdff1090c6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - sound_off
+  - restart
+  - close_2
+  - shop
+  - menu
+  - play
+  - ok
+  - about
+  - pause
+  - music_off
+  - prize
+  - prew
+  - faq
+  - settings
+  - sound
+  - close
+  - next
+  - leader
+  - upgrade
+  - misic
+  m_RenderDataMap: {}
+  m_Tag: UI_btns
+  m_IsVariant: 0
